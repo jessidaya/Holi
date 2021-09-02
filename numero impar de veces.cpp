@@ -36,6 +36,6 @@ int main()
         }
         
      }
-    cout<<"Elemento encontrado "<<v1[c1];
+    cout<<"Elemento encontrado valido"<<v1[c1];
     return 0;
 }
